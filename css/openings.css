@@ -1,0 +1,33 @@
+main {
+    padding: 40px 0;
+    text-align: center;
+}
+
+main h2 {
+    margin-bottom: 20px;
+}
+
+.opening {
+    margin-bottom: 40px;
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 35px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.opening h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.opening p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.opening img {
+    width: 600px;
+    height: 600px; 
+    object-fit: cover; 
+    border-radius: 2px;
+}

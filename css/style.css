@@ -57,6 +57,10 @@ body {
     letter-spacing: 2px;
 }
 
+h2, h3 {
+    color: #333;
+}
+
 .header-bg {
     position: absolute;
     height: 100%;
