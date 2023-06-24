@@ -61,6 +61,10 @@ h2, h3 {
     color: #333;
 }
 
+.h3 {
+    color: #fff;
+}
+
 .header-bg {
     position: absolute;
     height: 100%;
